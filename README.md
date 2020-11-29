@@ -12,7 +12,7 @@ This repository contains a simple script which can be used to create a new rever
     1. [`mod_proxy_connect`] ___-- Required___
     3. [`mod_proxy_wstunnel`] _-- Optional. enable if you want to use WebSockets_
 
-> Check out this tutorial on how to enable apache modules in cPanel
+> Check out this tutorial on [Configure Reverse Proxy In cPanel](https://blog.svarun.dev/configure-reverse-proxy-in-cpanel)
 
 [`mod_proxy`]: http://httpd.apache.org/docs/current/mod/mod_proxy.html
 [`mod_proxy_http`]: https://httpd.apache.org/docs/2.4/mod/mod_proxy_http.html
